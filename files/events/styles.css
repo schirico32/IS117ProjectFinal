@@ -360,7 +360,7 @@
   border-width:0px;
   position:absolute;
   left:604px;
-  top:434px;
+  top:407px;
   width:625px;
   height:200px;
 }
@@ -391,7 +391,7 @@
   border-width:0px;
   position:absolute;
   left:604px;
-  top:773px;
+  top:910px;
   width:625px;
   height:202px;
 }
@@ -1361,4 +1361,33 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 #wrap {
   width: 90%;
   margin: 0 auto;
+}
+.card-container {
+  border-width:0px;
+  position:absolute;
+  left:144px;
+  top:407px;
+  width:391px;
+  height:253px;
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-container:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-container2 {
+  border-width:0px;
+  position:absolute;
+  left: 144px;
+  top: 908px;
+  width: 381px;
+  height: 331px;
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+.card-container2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
