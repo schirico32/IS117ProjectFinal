@@ -1,4 +1,5 @@
-﻿body {
+﻿/* DEVELOPER: Steven Chirico, IS117-004, Spring 2019 */
+body {
   margin:0px;
   background-image:none;
   position:static;
@@ -944,3 +945,20 @@
   width: 90%;
   margin: 0 auto;
 }
+.form-bootstrap{
+  border-width:0px;
+  position:absolute;
+  left:300px;
+  top:500px;
+  width:213px;
+  height:620px;
+  padding-bottom: 50px;
+}
+/*
+#exampleInputQ1{
+  border-width:1px;
+  position:absolute;
+  width:511px;
+  height:219px;
+}
+*/
