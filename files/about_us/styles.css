@@ -1134,6 +1134,8 @@ body {
 }
 #wrap {
   width: 90%;
+  max-width:1920px;
+  min-width:480px;
   margin: 0 auto;
 }
 .form-bootstrap{
