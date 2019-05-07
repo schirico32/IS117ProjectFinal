@@ -1136,3 +1136,12 @@ body {
   width: 90%;
   margin: 0 auto;
 }
+.form-bootstrap{
+  border-width:0px;
+  position:absolute;
+  left:300px;
+  top:1250px;
+  width:213px;
+  height:620px;
+  padding-bottom: 50px;
+}
